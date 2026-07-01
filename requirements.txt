@@ -1,0 +1,6 @@
+kiteconnect
+pandas
+numpy
+pydantic
+python-dotenv
+pytest
